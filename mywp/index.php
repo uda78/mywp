@@ -1,6 +1,7 @@
 <?php
 
 //add custom type fields
+//new commit
 if ( ! function_exists( 'red_book_cp' ) ) {
 
 // Опишем требуемый функционал
