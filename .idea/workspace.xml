@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63e2dfdf-e57e-4fb3-bc3c-ad94daf5e776" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="63e2dfdf-e57e-4fb3-bc3c-ad94daf5e776" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_meta_fields.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="add_meta_fields.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mywp/add_meta_fields.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -32,6 +30,16 @@
               <folding>
                 <marker date="1521797822754" expanded="true" signature="2409:2515" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_post_type.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mywp/add_post_type.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/mywp/index.php" />
         <option value="$PROJECT_DIR$/mywp/add_meta_fields.php" />
+        <option value="$PROJECT_DIR$/mywp/add_post_type.php" />
       </list>
     </option>
   </component>
@@ -184,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5253000" />
+    <option name="totallyTimeSpent" value="5861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="45" width="1373" height="875" extended-state="6" />
@@ -263,6 +272,14 @@
           <folding>
             <marker date="1521797822754" expanded="true" signature="2409:2515" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mywp/add_post_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
